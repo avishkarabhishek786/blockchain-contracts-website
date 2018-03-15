@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-sm-8 col-md-7 py-4">
                     <h4 class="text-white">Connect with Ranchi Mall</h4>
-                    <p class="text-muted">If you an want to book a meeting or for any other query please email at abhishek@ranchimall.net</p>
+                    <p class="text-muted">For any query please drop an email at abhishek@ranchimall.net</p>
                 </div>
                 <div class="col-sm-4 offset-md-1 py-4">
                     <h4 class="text-white">Contact</h4>

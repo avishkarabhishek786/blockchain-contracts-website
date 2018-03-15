@@ -12,7 +12,7 @@
 
             <!-- Stack the columns on mobile by making one full-width and the other half-width -->
             <div class="row">
-                <div class="col-12 col-md-4 boxes"><p class="lead">Administrator:</p> John Doe</div>
+                <div class="col-12 col-md-4 boxes"><p class="lead">Administrator:</p> John </div>
                 <div class="col-12 col-md-8 boxes">
                     <p class="lead">Objective: </p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias assumenda autem beatae eaque earum eveniet iure iusto nisi nostrum, omnis possimus quidem sapiente? Atque facilis provident quos rerum velit veniam?
                 </div>

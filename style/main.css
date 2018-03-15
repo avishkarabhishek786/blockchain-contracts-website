@@ -1,9 +1,26 @@
 body {
     font-family: 'Titillium Web', sans-serif;
 }
+a:hover{
+    text-decoration: none;
+}
+.carousel-inner > .carousel-item > img,
+.carousel-inner > .carousel-item > a > img {
+    min-height: 600px;    /* Set slide height here */
+
+}
 .c-size {
     width: 12rem;
     height: 9rem;
+}
+
+.contract-box {
+    min-height: 125px;
+}
+.card-img-top{
+    width:100%;
+    min-height: 125px;
+    height:auto;
 }
 /*Extra small devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap*/
@@ -42,6 +59,23 @@ No media query since this is the default in Bootstrap*/
     }
 }
 
+.contract-box p.card-text {
+    color: #dd4b39;
+}
+.contract-box > small {
+    color: #5a5a5a;
+}
+.overlay {
+    background-color: #000000;
+    //opacity: .7;
+    color: #ffffff;
+    z-index: 2;
+    height: 100%;
+    width: 100%;
+}
+.carousel-caption h1, p {
+    z-index: 5;
+}
 .bg-yellow {
     background-color: #FFFF00;
 }
@@ -199,8 +233,8 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-    height: 32rem;
-    background-color: #777;
+    height: 36rem;
+    background-color: #fff;
 }
 .carousel-item > img {
     position: absolute;
